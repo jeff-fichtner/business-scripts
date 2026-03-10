@@ -30,3 +30,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Agent local settings (permissions, tokens)
+.claude/settings.json

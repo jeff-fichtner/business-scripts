@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "expense_tracker": "../finance/2025/tax/LLC_Expense_Tracker_2025.xlsx"
+  },
+  "import_expenses": {
+    "banks": {},
+    "category_keywords": {},
+    "default_status": "Needs Review"
+  }
+}

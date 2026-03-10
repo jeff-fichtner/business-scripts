@@ -1,0 +1,32 @@
+# Credentials — never commit
+config/credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+env/
+
+# Bank CSV imports (may contain sensitive financial data)
+imports/
+*.csv
+*.ofx
+*.qfx
+*.qbo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
